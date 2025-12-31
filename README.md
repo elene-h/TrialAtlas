@@ -1,11 +1,20 @@
 <div align="center">
+<h1> “TrialAtlas” Agent </h1>
+<h3> This screening project is a research protoype & not intended for final use</h3>
+<h6> is designed for broad, user-driven exploration of publicly available clinical trials and published literature. The goal is to only support exploration and have a better contextual understanding of clinical trials, but never to replace expert judgement.</h6>
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
+ 
 </div>
+
+
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
