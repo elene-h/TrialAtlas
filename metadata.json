@@ -1,0 +1,8 @@
+
+{
+  "name": "TrialAtlas",
+  "description": "An AI-powered intelligence dashboard that discovers, analyzes, and structures clinical trial data from public registries using the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
